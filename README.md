@@ -17,9 +17,7 @@ This is the responsive frontend for the Osumare Marketing Solutions internal lan
 🔹 README.md          # Project documentation
 ```
 
-## 📸 Preview
 
-> Insert a live screenshot or [Figma design link](#) here if available
 
 ## 📦 How to Use
 
@@ -44,10 +42,7 @@ This is the responsive frontend for the Osumare Marketing Solutions internal lan
 - Clean and modular layout using Tailwind CSS
 - Easy to customize and scale
 
-## 🧑‍💻 Author
 
-**[Your Name]**  
-Frontend Developer | [LinkedIn](#) | [Portfolio](#)
 
 ## 📄 License
 
